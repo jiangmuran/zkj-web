@@ -15,3 +15,7 @@
 
 [马里奥经典版](./mario "马里奥经典版")
 
+[(重磅！切水果)](./fruit "切水果")
+ 
+[(scratch 游戏)](./scratch "scratch")
+
